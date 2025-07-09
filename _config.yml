@@ -15,8 +15,8 @@ icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name 
 logo: utn_with_text.png
 logo_url: https://www.utn.de/
 
-url: https://utndatasystems.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://janosch-gehring.github.io/utn-nlu.github.io/ # the base hostname & protocol for your site
+baseurl: janosch-gehring.github.io/utn-nlu.github.io/ # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: /impressum.html # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
