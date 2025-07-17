@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
-
-Sitemap: https://utndatasystems.github.io/sitemap.xml
+  
+Sitemap: https://janosch-gehring.github.io/utn-nlu.github.io/janosch-gehring.github.io/utn-nlu.github.io//sitemap.xml

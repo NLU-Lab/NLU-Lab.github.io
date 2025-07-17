@@ -7,21 +7,21 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/janosch-gehring.github.io/utn-nlu.github.io/";
     },
   },{id: "nav-publications",
           title: "Publications",
           description: "All publications from the Data Systems Lab.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/janosch-gehring.github.io/utn-nlu.github.io/publications/";
           },
         },{id: "nav-github-lt-i-class-quot-fa-fa-external-link-small-p-1-quot-aria-hidden-quot-true-quot-gt-lt-i-gt",
           title: "GitHub&lt;i class=&quot;fa fa-external-link small p-1&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/github.com/utndatasystems";
+            window.location.href = "/janosch-gehring.github.io/utn-nlu.github.io/https:/github.com/utndatasystems";
           },
         },{id: "news-hello-world-andreas-kipf-has-been-appointed-professor-of-data-systems-at-the-university-of-technology-nuremberg-read-the-announcement",
           title: 'Hello, world! Andreas Kipf has been appointed Professor of Data Systems at the...',
@@ -70,6 +70,6 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("janosch-gehring.github.io/utn-nlu.github.io//feed.xml", "_blank");
         },
       },];
